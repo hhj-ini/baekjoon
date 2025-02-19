@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itree\\source\\repos\\BacjoonLevelCoding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A69C9A32-EBE7-479F-B3CD-65588F84B271}|BacjoonLevelCoding\\BacjoonLevelCoding.vcxproj|C:\\Users\\itree\\source\\repos\\BacjoonLevelCoding\\BacjoonLevelCoding\\2563.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A69C9A32-EBE7-479F-B3CD-65588F84B271}|BacjoonLevelCoding\\BacjoonLevelCoding.vcxproj|solutionrelative:BacjoonLevelCoding\\2563.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2563.cpp",
+              "DocumentMoniker": "C:\\Users\\itree\\source\\repos\\BacjoonLevelCoding\\BacjoonLevelCoding\\2563.cpp",
+              "RelativeDocumentMoniker": "BacjoonLevelCoding\\2563.cpp",
+              "ToolTip": "C:\\Users\\itree\\source\\repos\\BacjoonLevelCoding\\BacjoonLevelCoding\\2563.cpp",
+              "RelativeToolTip": "BacjoonLevelCoding\\2563.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T09:40:14.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
