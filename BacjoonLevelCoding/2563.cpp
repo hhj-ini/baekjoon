@@ -22,12 +22,14 @@ int main()
 		}
 	}
 
+	int cnt = 0;
+
 	for (const auto& vec : v) {
-		for (const auto& elem : vec) {
-			cout << elem;
-		}
-		cout << endl;
+		const int curr_vec_cnt = count(vec.begin(), vec.end(), true);
+		cnt += curr_vec_cnt;
 	}
+
+	cout << cnt;
 
 }
 
