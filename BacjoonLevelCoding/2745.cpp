@@ -32,6 +32,8 @@ int main()
 
 	cout << answer;
 }
+// https://www.acmicpc.net/problem/2745
+
 // 틀린 이유
 
 // 1. 컴파일 에러
