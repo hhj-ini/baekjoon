@@ -282,5 +282,8 @@
     <ClCompile Include="10828_스택.cpp">
       <Filter>소스 파일\1-1</Filter>
     </ClCompile>
+    <ClCompile Include="10866_덱.cpp">
+      <Filter>소스 파일\1-1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
