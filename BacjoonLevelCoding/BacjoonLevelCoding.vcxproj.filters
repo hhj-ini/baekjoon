@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\약수, 배수와 소수">
       <UniqueIdentifier>{ad68d23a-8d73-4496-a0ce-025fdbed8eed}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\1-1">
+      <UniqueIdentifier>{a502fcdd-582d-49c2-a9ca-a6fcbb91cdc9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2743.cpp">
@@ -269,6 +272,9 @@
     </ClCompile>
     <ClCompile Include="1978.cpp">
       <Filter>소스 파일\약수, 배수와 소수</Filter>
+    </ClCompile>
+    <ClCompile Include="1181_단어정렬.cpp">
+      <Filter>소스 파일\1-1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

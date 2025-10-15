@@ -16,7 +16,7 @@ int main()
 		// ¾Æ´Ï¸é
 		// break;
 
-		if (S != 1) {
+if (S != 1) {
 			int D = 2;
 			bool B = false;
 			while (D < S) {
